@@ -3,6 +3,19 @@
   <channel>
     <title>Yuki</title>
     <item>
+      <title>Yuki 0.9.8</title>
+      <pubDate>Tue, 13 Oct 2026 19:41:54 +0400</pubDate>
+      <sparkle:version>243</sparkle:version>
+      <sparkle:shortVersionString>0.9.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Yuki introduces herself: a few quick questions on first launch (energy, Chrome, typing)</li><li>Tips now and then for things you have not tried yet</li><li>New menu items: What can Yuki do? (the web guide) and Replay intro</li><li>Updated readme</li></ul>]]></description>
+      <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.8/Yuki-0.9.8.dmg" type="application/octet-stream" sparkle:edSignature="86kFCcnEt/8rFaGZvzwyk9R3jxhU5M3hEhboT7HQ3WmJh3mv7BZC4LWFPzVX4+eucTXGCr0l0FzuJsBYZtryAQ==" length="69692118" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.8/Yuki-0.9.8-from-229.delta" sparkle:deltaFrom="229" type="application/octet-stream" sparkle:edSignature="SeeiTipqny7BWb7Ib6fO+5KGsQHpxlAcJzUdIFDx5irIXBgmfpvm5EcjLAq3vVEhf/GJydgVc6AtkkZZIXfIAw==" length="3068178" />
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.8/Yuki-0.9.8-from-236.delta" sparkle:deltaFrom="236" type="application/octet-stream" sparkle:edSignature="nBl0mi955GfOvXl79zvx71UXDCnTCMkiXf1yEMN+uvp2/G48ZRZfXG5IyVx/2C2YA7m/2CcaZNlIdbWhAvw/Dg==" length="178142" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Yuki 0.9.7</title>
       <pubDate>Tue, 13 Oct 2026 18:09:42 +0400</pubDate>
       <sparkle:version>236</sparkle:version>
