@@ -3,6 +3,19 @@
   <channel>
     <title>Yuki</title>
     <item>
+      <title>Yuki 0.9.6</title>
+      <pubDate>Tue, 13 Oct 2026 16:29:38 +0400</pubDate>
+      <sparkle:version>229</sparkle:version>
+      <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Real turns: she stands up, turns around and sits back down (no more flat flip)</li><li>Checks for new versions every 30 minutes</li></ul>]]></description>
+      <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.6/Yuki-0.9.6.dmg" type="application/octet-stream" sparkle:edSignature="hCRZaHqfxxL68YkF51fvzmvFEaWVR60uTFoOI+Y0OwVQBXIgX6DlfKjClZxgTWEyK7KXC1Gwjzd8he7LIH1+AQ==" length="65900555" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.6/Yuki-0.9.6-from-220.delta" sparkle:deltaFrom="220" type="application/octet-stream" sparkle:edSignature="LWT3w8HB999O1GKuCL415aW0A83BiKJekmh2E7lJtfo+vt3BNfvUhb1hGzpQKF6SY7NcGbz00qlDXdKz5Sl0CA==" length="7320934" />
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.6/Yuki-0.9.6-from-223.delta" sparkle:deltaFrom="223" type="application/octet-stream" sparkle:edSignature="LOfDbrvcfg/i6ajWSsM1tEkDE5kzWljSyj5uTZNhxH/m3+u8STCWX2FnFrws1wsoYn0yLV8tNowxfY42JBBPCw==" length="97234" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Yuki 0.9.5</title>
       <pubDate>Tue, 13 Oct 2026 15:00:52 +0400</pubDate>
       <sparkle:version>223</sparkle:version>
