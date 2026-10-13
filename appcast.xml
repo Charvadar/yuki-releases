@@ -3,6 +3,15 @@
   <channel>
     <title>Yuki</title>
     <item>
+      <title>Yuki 0.9.1</title>
+      <pubDate>Tue, 13 Oct 2026 11:01:08 +0400</pubDate>
+      <sparkle:version>210</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Typing: she now sits at a little typewriter and types along with you, letters flying off the paper</li></ul>]]></description>
+      <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.1/Yuki-0.9.1.dmg" type="application/octet-stream" sparkle:edSignature="o8x6+kCXYAkCmnCY4ucYiKcBjmdNTZOX+SqzFu5KtG6d/kLIFGD2K417Wd216AB8VbHZbw7yvsgy+EgZ0BDgAw==" length="110809557" />
+    </item>
+    <item>
       <title>Yuki 0.9</title>
       <pubDate>Tue, 13 Oct 2026 10:37:04 +0400</pubDate>
       <sparkle:version>207</sparkle:version>
