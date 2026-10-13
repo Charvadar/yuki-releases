@@ -3,6 +3,19 @@
   <channel>
     <title>Yuki</title>
     <item>
+      <title>Yuki 0.9.5</title>
+      <pubDate>Tue, 13 Oct 2026 15:00:52 +0400</pubDate>
+      <sparkle:version>223</sparkle:version>
+      <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Hanging fixed: one paw per leg (no more extra little paw)</li><li>Softer pink tongue while she grooms</li><li>She holds still while her menu is open</li></ul>]]></description>
+      <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.5/Yuki-0.9.5.dmg" type="application/octet-stream" sparkle:edSignature="ZxMEtNkbzL9+33x6YBSiIJFablvdjdCKCmVp6Ha1U/n44r9rNyuLXXMFO3IXr1FHMPTG+F3cq6FOdgJoco3vAw==" length="65899394" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.5/Yuki-0.9.5-from-217.delta" sparkle:deltaFrom="217" type="application/octet-stream" sparkle:edSignature="KVB/hLvx7JDOLveA0FZVwu7hkYJxoPQvghDAPuo20vhhnZp57PHKqxG4LnBWDks/RZnqrgWGMmkFLRzVnHfkAQ==" length="22479354" />
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.5/Yuki-0.9.5-from-220.delta" sparkle:deltaFrom="220" type="application/octet-stream" sparkle:edSignature="TJzgcNNOzFwWxkqKhIo+gMmcR8UDdt4Jaef5PinoHYISABPd5I/UWcz2Pp2uiOy2M1CHtA3lsqGsyLbRLQS+Bw==" length="7291470" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Yuki 0.9.4</title>
       <pubDate>Tue, 13 Oct 2026 13:51:53 +0400</pubDate>
       <sparkle:version>220</sparkle:version>
