@@ -3,6 +3,19 @@
   <channel>
     <title>Yuki</title>
     <item>
+      <title>Yuki 0.9.7</title>
+      <pubDate>Tue, 13 Oct 2026 18:09:42 +0400</pubDate>
+      <sparkle:version>236</sparkle:version>
+      <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Plays on web pages in Chrome (with the Yuki extension: menu &gt; Get the Chrome extension)</li><li>New Maniac energy: wrecks web pages (letters, scratches, knocks things off; reload fixes it)</li><li>Chill never jumps now</li><li>Types right next to the text box you are typing in</li><li>Smooth finish when she stops typing</li><li>Same size in every pose</li></ul>]]></description>
+      <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.7/Yuki-0.9.7.dmg" type="application/octet-stream" sparkle:edSignature="n5m50dqwx3FhISuiY4CsnqR1sia4Cyd+7dELvF6MTnbBknnfjzPHk8fH47vUrOulPRpBeHDW3tkeDgo5S6fpAw==" length="70763062" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.7/Yuki-0.9.7-from-223.delta" sparkle:deltaFrom="223" type="application/octet-stream" sparkle:edSignature="oynpKQ/LFsufqK31t9GN5rhUY3Dxif1hG6zf0HIF1LJTnTVB7gIeThUVGJCcRA31aRDOIk0iu5VKg44/BUF4AA==" length="3034998" />
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.7/Yuki-0.9.7-from-229.delta" sparkle:deltaFrom="229" type="application/octet-stream" sparkle:edSignature="XBqQpUKIH/qdtFmuXAzIauWoDiI1AkpiGm5+p+hjpCaNT7t3WhPq3XcJv9LNguggQG1OEx/KrOzKRx+PHNJZCA==" length="3022098" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Yuki 0.9.6</title>
       <pubDate>Tue, 13 Oct 2026 16:29:38 +0400</pubDate>
       <sparkle:version>229</sparkle:version>
