@@ -3,6 +3,19 @@
   <channel>
     <title>Yuki</title>
     <item>
+      <title>Yuki 0.9.4</title>
+      <pubDate>Tue, 13 Oct 2026 13:51:53 +0400</pubDate>
+      <sparkle:version>220</sparkle:version>
+      <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Real transitions: she sits down, stands up, curls up to sleep and wakes up instead of jumping between poses</li><li>New grooming, stretching (with a big yawn) and sleeping animations</li><li>Energy in the menu: Chill (mostly sits, grooms and naps), Normal or Playful (always up to something)</li><li>Right-click Yuki to open her menu</li></ul>]]></description>
+      <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.4/Yuki-0.9.4.dmg" type="application/octet-stream" sparkle:edSignature="MSOaO9zQD+T8KYbfmalS2mTYmJemDgFUTCTyVTjojfFS5WW6Ilt7f5atmN59K1WWxEeESAudD4s4q6O/TEb5AQ==" length="66985522" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.4/Yuki-0.9.4-from-214.delta" sparkle:deltaFrom="214" type="application/octet-stream" sparkle:edSignature="rzy5tqxo2ic790zJVHpVQtceRuKiVT/IRkbvIiyXKynnW1rNeraWBKFqwYdYtoNjZUTJRs/XlfUCLUeIBucMBA==" length="20690918" />
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.4/Yuki-0.9.4-from-217.delta" sparkle:deltaFrom="217" type="application/octet-stream" sparkle:edSignature="ZBEY0aMBd0KpvFvrSx73OFkzWbf5ytXu/je+qLjE6YpJxMy44ILFCLWWMfFDgq+yFnRXjeR0wk/R4Znxm088Dw==" length="16670662" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Yuki 0.9.3</title>
       <pubDate>Tue, 13 Oct 2026 13:08:56 +0400</pubDate>
       <sparkle:version>217</sparkle:version>
