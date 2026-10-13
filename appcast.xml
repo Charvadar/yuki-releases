@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Yuki</title>
+    <item>
+      <title>Yuki 0.9</title>
+      <pubDate>Tue, 13 Oct 2026 10:37:04 +0400</pubDate>
+      <sparkle:version>207</sparkle:version>
+      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Yuki updates herself now: when there&#x27;s a new version she&#x27;ll ask you, click her and she does the rest</li><li>Music: she lies on her back with pink headphones, bobbing and singing along</li><li>She gets scared: whip the cursor right at her, or close the window she&#x27;s sitting on</li><li>Cursor chasing, hide &amp; peek, idle chatter and the smooth walk / run / turn from 0.7 and 0.8</li></ul>]]></description>
+      <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9/Yuki-0.9.dmg" type="application/octet-stream" sparkle:edSignature="Wcz+sNb07/Zh60U+de8TFckSEL/nwjaEFZMXkZ8S1M7JkHTJjukLy8kGQwS6L1+oa/qGFDy2Bs1AoiK2nq3vCg==" length="78246712" />
+    </item>
   </channel>
 </rss>
