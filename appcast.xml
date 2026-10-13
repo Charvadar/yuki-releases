@@ -3,6 +3,19 @@
   <channel>
     <title>Yuki</title>
     <item>
+      <title>Yuki 0.9.2</title>
+      <pubDate>Tue, 13 Oct 2026 12:07:26 +0400</pubDate>
+      <sparkle:version>214</sparkle:version>
+      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Hanging: she grips the window edge with her paws, dangles, kicks and looks around, and shuffles along paw over paw</li><li>She gets a fright when you close a window or a tab (Cmd-W)</li><li>Updates: the progress stays up the whole time, with a progress bar</li><li>Much smaller app (about 38 MB instead of 124 MB), and from now on updates only download what changed</li></ul>]]></description>
+      <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.2/Yuki-0.9.2.dmg" type="application/octet-stream" sparkle:edSignature="zox6+Ff1kP5BbOatM0uuAKpCl9+uDMv4Ne8gd27MxCMLa2tCoIAVp13i1QXDjUR1LAG8WvTIFOeJPIgRVbjzAA==" length="42801067" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.2/Yuki-0.9.2-from-207.delta" sparkle:deltaFrom="207" type="application/octet-stream" sparkle:edSignature="XUfZwyNGywI5c89hNuyp+m3iGon9Y0kDFcZKvu9tYSFB9a66St4j55IWF9PyJbWljwkHG7epigbTboyYuTUvAw==" length="32721350" />
+        <enclosure url="https://github.com/Charvadar/yuki-releases/releases/download/v0.9.2/Yuki-0.9.2-from-210.delta" sparkle:deltaFrom="210" type="application/octet-stream" sparkle:edSignature="mOQfWmx8/PIHAYTEoUaiv2crx+K2ya5xJ2MDjMc07jAH75F876Z1qeuU92YV9u9BwPibTXT2RRZdTnjw5UNKAw==" length="32719342" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Yuki 0.9.1</title>
       <pubDate>Tue, 13 Oct 2026 11:01:08 +0400</pubDate>
       <sparkle:version>210</sparkle:version>
